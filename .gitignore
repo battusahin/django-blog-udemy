@@ -1,1 +1,4 @@
 .Ds_Store
+__pycache__
+.vscode
+.dbsqllite3
