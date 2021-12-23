@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     'blog',
     # third party app
     'ckeditor',   
+    'django_extensions',
 ]
 
 MIDDLEWARE = [

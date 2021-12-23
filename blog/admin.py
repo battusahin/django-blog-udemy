@@ -3,7 +3,6 @@ from blog.models import (
     KategoriModel, YazilarModel, YorumModel, IletisimModel
 )
 
-
 admin.site.register(KategoriModel)
 
 @admin.register(YazilarModel)
